@@ -48,10 +48,10 @@ If you want to cite paper [1] or this repo [[2]](https://github.com/groupoasys/S
 ```
 * Repository:
 ```
-@article{OASYS2020screening,
+@article{OASYS2021screening,
 author = {OASYS},
 journal = {GitHub repository (https://github.com/groupoasys/Screening{\_}Constraints{\_}MILP{\_}Data)},
-title = {{Medical Data}},
+title = {{Screening Constraints MILP Data}},
 url = {https://github.com/groupoasys/Screening{\_}Constraints{\_}MILP{\_}Data},
 year = {2021}
 }
