@@ -2,7 +2,7 @@
 
 ## Goals ⚽
 
-The aim of this repository is to provide some details of the data sets used in paper [1]. This article has been developed by some
+The aim of this repository is to provide some details of the data sets used in paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization). This article has been developed by some
 members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you visit the related links to know more our research 😉
 
 ## How can I download the data? ⬇
@@ -28,13 +28,13 @@ Two cases of study have been analyzed in [1]: a synthetic MILP and the real-worl
 
 ## References 📚
 
-[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2021). Offline constraint screening for online mixed-integer optimization. To be submitted. Available soon.
+[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2021). Offline constraint screening for online mixed-integer optimization. Submitted. Available [here](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization).
 
 [2] OASYS, Screening Constraints MILP Data, Github repository (https://github.com/groupoasys/Screening_Constraints_MILP_Data), 2021.
 
 ## How to cite the repo and the paper? 📝
 
-If you want to cite paper [1] or this repo [[2]](https://github.com/groupoasys/Screening_Constraints_MILP_Data), please use the following bib entry:
+If you want to cite paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization) or this repo [[2]](https://github.com/groupoasys/Screening_Constraints_MILP_Data), please use the following bib entry:
 
 * Article:
 ```
@@ -43,7 +43,7 @@ If you want to cite paper [1] or this repo [[2]](https://github.com/groupoasys/S
   title = {Offline constraint screening for online mixed-integer optimization.},
   institution = {Universidad de M\'alaga},
   year = {2021},
-  note = {Available soon}}
+  note = {Available at \url{https://www.researchgate.net/publication/350371853{\_}Offline{\_}constraint{\_}screening{\_}for{\_}online{\_}mixed-integer{\_}optimization}}}
 }
 ```
 * Repository:
