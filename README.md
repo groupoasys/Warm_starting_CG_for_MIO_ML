@@ -1,18 +1,20 @@
-# Screening_Constraints_MILP_Data
+# Warm_starting_CG_for_MIO_ML
 
 ## Goals ⚽
 
-The aim of this repository is to provide some details of the data sets used in paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization). This article has been developed by some
+The aim of this repository is to provide some details of the data sets used in paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization), as well as the code used to obtain the results. This article has been developed by some
 members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you visit the related links to know more our research 😉
 
 ## How can I download the data? ⬇
 
 Please, click at this [link](https://drive.google.com/drive/folders/1DCaXhlRaZckNaiy6b86CUwzuz1-k-PLS?usp=sharing).
 
+## How can I download the code? ⬇
+Please, click at this [link](https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML/tree/main/Code)
+
 ## Summary 🧮📊📖
 
-Two cases of study have been analyzed in [1]: a synthetic MILP and the real-world application, namely the Unit Commitment problem. Different data sets files are given below:
-
+Three cases of study have been analyzed in [1]: a toy example, a synthetic MILP, and the real-world application, namely the Unit Commitment problem. The data from the toy example can be seen in Section 4 of the paper. In addition, the files of the two large-size data sets are given below:
 1) Synthetic MILP:
     * [Objetive function coefficients, c.](https://drive.google.com/file/d/1JfR2j01FNtYmJxPbzR-ryUsOTtPAxaJP/view?usp=sharing)
     * [Matrix coefficients, a.](https://drive.google.com/file/d/1vTVBdi1CYdrdrlLxO82wDLDAhTn7_0U2/view?usp=sharing)
@@ -28,32 +30,34 @@ Two cases of study have been analyzed in [1]: a synthetic MILP and the real-worl
 
 ## References 📚
 
-[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2021). Offline constraint screening for online mixed-integer optimization. Submitted. Available [here](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization).
+[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2022). Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach.
 
-[2] OASYS, Screening Constraints MILP Data, Github repository (https://github.com/groupoasys/Screening_Constraints_MILP_Data), 2021.
+approach. Submitted. Available [here](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization).
+
+[2] OASYS, Warm_starting_CG_for_MIO_ML, Github repository (https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML), 2022.
 
 ## How to cite the repo and the paper? 📝
 
-If you want to cite paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization) or this repo [[2]](https://github.com/groupoasys/Screening_Constraints_MILP_Data), please use the following bib entry:
+If you want to cite paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization) or this repo [[2]](https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML), please use the following bib entry:
 
 * Article:
 ```
-@techreport{jimenezcordero2021offline,
+@techreport{jimenezcordero2022warm,
   author = {Jim\'enez-Cordero, Asunci\'on and Morales, Juan Miguel and Pineda, Salvador},
-  title = {Offline constraint screening for online mixed-integer optimization.},
+  title = {Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach..},
   institution = {Universidad de M\'alaga},
-  year = {2021},
+  year = {2022},
   note = {Available at \url{https://www.researchgate.net/publication/350371853{\_}Offline{\_}constraint{\_}screening{\_}for{\_}online{\_}mixed-integer{\_}optimization}}}
 }
 ```
 * Repository:
 ```
-@article{OASYS2021screening,
+@article{OASYS2022screening,
 author = {OASYS},
-journal = {GitHub repository (https://github.com/groupoasys/Screening{\_}Constraints{\_}MILP{\_}Data)},
-title = {{Screening Constraints MILP Data}},
-url = {https://github.com/groupoasys/Screening{\_}Constraints{\_}MILP{\_}Data},
-year = {2021}
+journal = {GitHub repository (https://github.com/groupoasys/Warm{\_}starting{\_}CG{\_}for{\_}MIO{\_}ML)},
+title = {{Warm_starting_CG_for_MIO_ML}},
+url = {https://github.com/groupoasys/Warm{\_}starting{\_}CG{\_}for{\_}MIO{\_}ML},
+year = {2022}
 }
 ```
 
