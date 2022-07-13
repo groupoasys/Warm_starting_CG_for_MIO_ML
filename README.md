@@ -50,12 +50,11 @@ If you want to cite paper [[1]](https://www.researchgate.net/publication/3503718
 ```
 * Repository:
 ```
-@article{OASYS2022screening,
-author = {OASYS},
-journal = {GitHub repository (https://github.com/groupoasys/Warm{\_}starting{\_}CG{\_}for{\_}MIO{\_}ML)},
-title = {{Warm_starting_CG_for_MIO_ML}},
-url = {https://github.com/groupoasys/Warm{\_}starting{\_}CG{\_}for{\_}MIO{\_}ML},
-year = {2022}
+@misc{OASYS2022warm,
+author={OASYS},
+  year={2022},
+  title = {{Warm_starting_CG_for_MIO_ML}},
+  howpublished = {\url{https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML}}
 }
 ```
 
