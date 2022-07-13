@@ -2,7 +2,7 @@
 
 ## Goals ⚽
 
-The aim of this repository is to provide some details of the data sets used in paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization), as well as the code used to obtain the results. This article has been developed by some
+The aim of this repository is to provide some details of the data sets used in paper [[1]](https://www.researchgate.net/publication/350371853_Machine-learning-aided_warm-start_of_constraint_generation_methods_for_online_mixed-integer_optimization), as well as the code used to obtain the results. This article has been developed by some
 members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you visit the related links to know more our research 😉
 
 ## How can I download the data? ⬇
@@ -14,7 +14,7 @@ Please, click at this [link](https://github.com/groupoasys/Warm_starting_CG_for_
 
 ## Summary 🧮📊📖
 
-Three cases of study have been analyzed in [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization): a toy example, a synthetic MILP, and the real-world application, namely the Unit Commitment problem. The data from the toy example can be seen in Section 4 of the paper. In addition, the files of the two large-size data sets are given below:
+Three cases of study have been analyzed in [[1]](https://www.researchgate.net/publication/350371853_Machine-learning-aided_warm-start_of_constraint_generation_methods_for_online_mixed-integer_optimization): a toy example, a synthetic MILP, and the real-world application, namely the Unit Commitment problem. The data from the toy example can be seen in Section 4 of the paper. In addition, the files of the two large-size data sets are given below:
 1) Synthetic MILP:
     * [Objetive function coefficients, c.](https://drive.google.com/file/d/1JfR2j01FNtYmJxPbzR-ryUsOTtPAxaJP/view?usp=sharing)
     * [Matrix coefficients, a.](https://drive.google.com/file/d/1vTVBdi1CYdrdrlLxO82wDLDAhTn7_0U2/view?usp=sharing)
@@ -30,13 +30,13 @@ Three cases of study have been analyzed in [[1]](https://www.researchgate.net/pu
 
 ## References 📚
 
-[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2022). Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach. Submitted. Available [here](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization).
+[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2022). Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach. Submitted. Available [here](https://www.researchgate.net/publication/350371853_Machine-learning-aided_warm-start_of_constraint_generation_methods_for_online_mixed-integer_optimization).
 
 [2] OASYS, Warm_starting_CG_for_MIO_ML, Github repository (https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML), 2022.
 
 ## How to cite the repo and the paper? 📝
 
-If you want to cite paper [[1]](https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization) or this repo [[2]](https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML), please use the following bib entry:
+If you want to cite paper [[1]](https://www.researchgate.net/publication/350371853_Machine-learning-aided_warm-start_of_constraint_generation_methods_for_online_mixed-integer_optimization) or this repo [[2]](https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML), please use the following bib entry:
 
 * Article:
 ```
@@ -45,7 +45,7 @@ If you want to cite paper [[1]](https://www.researchgate.net/publication/3503718
   title = {Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach..},
   institution = {Universidad de M\'alaga},
   year = {2022},
-  note = {Available at \url{https://www.researchgate.net/publication/350371853{\_}Offline{\_}constraint{\_}screening{\_}for{\_}online{\_}mixed-integer{\_}optimization}}}
+  note = {Available at \url{https://www.researchgate.net/publication/350371853_Machine-learning-aided{\_}warm-start{\_}of{\_}constraint{\_}generation{\_}methods{\_}for{\_}online{\_}mixed-integer{\_}optimization}}}
 }
 ```
 * Repository:
