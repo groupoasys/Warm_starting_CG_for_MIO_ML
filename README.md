@@ -30,7 +30,8 @@ Three cases of study have been analyzed in [[1]](https://www.sciencedirect.com/s
 
 ## References 📚
 
-[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2022). Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach. Submitted. Available [here](https://www.sciencedirect.com/science/article/pii/S0950705122007894).
+[1] Jiménez-Cordero, A., Morales, J.M., & Pineda, S. (2022). Warm-starting constraint generation for mixed-integer optimization: A Machine Learning approach. .
+Knowledge-Based Systems, 253, 109570, https://doi.org/10.1016/j.knosys.2022.109570.
 
 [2] OASYS, Warm_starting_CG_for_MIO_ML, Github repository (https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML), 2022.
 
