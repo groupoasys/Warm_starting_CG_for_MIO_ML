@@ -57,7 +57,7 @@ author = {Asunción Jiménez-Cordero and Juan Miguel Morales and Salvador Pineda
 @misc{OASYS2022warm,
 author={OASYS},
   year={2022},
-  title = {{Warm_starting_CG_for_MIO_ML}},
+  title = {{Warm\_starting\_CG\_for\_MIO\_ML}},
   howpublished = {\url{https://github.com/groupoasys/Warm_starting_CG_for_MIO_ML}}
 }
 ```
